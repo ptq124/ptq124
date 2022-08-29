@@ -1,4 +1,12 @@
-### Hi there 👋
+# 박태규 Park Tae Kyu
+---
+
+:santa: Font-end Developer
+:pencil2: Hankuk University of Foreign Studies Computer Engineer
+
+<img src="https://img.shields.io/badge/vue.js-#4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+
+
 
 <!--
 **ptq124/ptq124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
