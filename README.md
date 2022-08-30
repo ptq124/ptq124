@@ -14,6 +14,7 @@ Personal History ✨
 인공지능연구원 @AIRI FE Intern (2022.07.01~)
 
 한국외국어대학교 @HUFS (2017.03.01~)
+
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ptq124&&show_icons=true&theme=tokyonight)
