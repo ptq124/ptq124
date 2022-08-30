@@ -1,7 +1,7 @@
 # 박태규 Park Tae Kyu
 
-💻 Font-end Developer<br/>
-:pencil2: Hankuk University of Foreign Studies Computer Engineer
+💻 Front-end Developer<br/>
+🏫 Hankuk University of Foreign Studies. Computer Engineer
 
 
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
@@ -9,9 +9,11 @@
 For More Info... [TIL](https://ptq124.github.io/TIL/)
 
 ---
+Personal History ✨
 
 인공지능연구원 @AIRI FE Intern (2022.07.01~)
 
+한국외국어대학교 @HUFS (2017.03.01~)
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ptq124&&show_icons=true&theme=tokyonight)
