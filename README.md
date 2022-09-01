@@ -6,7 +6,7 @@
 
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
 
-For More Info... [TIL](https://ptq124.github.io/TIL/) [Blog](https://velog.io/@ptq124)
+For More Info... [TIL](https://ptq124.github.io/TIL/)      [Blog](https://velog.io/@ptq124)
 
 ---
 Personal History ✨
