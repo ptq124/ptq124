@@ -9,7 +9,7 @@
 For More Info... [TIL](https://ptq124.github.io/TIL/)      [Blog](https://velog.io/@ptq124)
 
 ---
-Personal History ✨
+✨ Personal History ✨
 
 인공지능연구원 @AIRI FE Intern (2022.07.01~)
 
