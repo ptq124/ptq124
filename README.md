@@ -11,6 +11,8 @@ For More Info... [TIL](https://ptq124.github.io/TIL/)      [Blog](https://velog.
 ---
 ✨ Personal History ✨
 
+현대 소프티어부트캠프 2기 (2023.07 ~ 2023.08)
+
 인공지능연구원 @AIRI FE Intern (2022.07 ~ 2023.01)
 
 한국외국어대학교 @HUFS (2017.03 ~ 2023.09)
