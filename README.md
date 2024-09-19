@@ -15,8 +15,6 @@
 - 한국외국어대학교 컴퓨터공학부 <sub><sup>(2017.03 ~ 2024.02)</sup></sub> 
 ---
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fptq124%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 <!--
 **ptq124/ptq124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
