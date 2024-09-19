@@ -7,15 +7,13 @@
 
 ---
 ✨ Personal History ✨
-
-- 구름톤 8기 <span>$\tiny{(2023.12)}$</span>
-- 현대 소프티어부트캠프 2기 <span>$\tiny{(2023.07 ~ 2023.08)}$</span>
-- SWYG 프로젝트 5기 <span>$\tiny{(2023.02 ~ 2023.03)}$</span>
-- 인공지능연구원 FE Intern <span>$\tiny{(2022.07 ~ 2023.01)}$</span>
-- 한국외국어대학교 컴퓨터공학부 <span>$\tiny{(2017.03 ~ )}$</span>
-
+- 현대아이에이치엘 @Hyundai IHL <sub><sup>Software Engineer (2024.06 ~ now)</sup></sub>
+- 구름톤 8기 <sub><sup>FE Developer(2023.12)</sup></sub>
+- 현대 소프티어부트캠프 2기 <sub><sup>FE Developer (2023.07 ~ 2023.08)</sup></sub>
+- SWYG 프로젝트 5기 <sub><sup>FE Developer  (2023.02 ~ 2023.03)</sup></sub>
+- 인공지능연구원 @AIRI <sub><sup>FE Intern (2022.07 ~ 2023.01)</sup></sub>  
+- 한국외국어대학교 컴퓨터공학부 <sub><sup>(2017.03 ~ 2024.02)</sup></sub> 
 ---
-
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fptq124%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
