@@ -9,7 +9,7 @@
 ✨ Personal History ✨
 - 현대아이에이치엘 @Hyundai IHL <sub><sup>Software Engineer (2024.06 ~ now)</sup></sub>
 - 구름톤 8기 <sub><sup>FE Developer(2023.12)</sup></sub>
-- 현대 소프티어부트캠프 2기 <sub><sup>FE Developer (2023.07 ~ 2023.08)</sup></sub>
+- 현대 소프티어 부트캠프 2기 <sub><sup>FE Developer (2023.07 ~ 2023.08)</sup></sub>
 - SWYG 프로젝트 5기 <sub><sup>FE Developer  (2023.02 ~ 2023.03)</sup></sub>
 - 인공지능연구원 @AIRI <sub><sup>FE Intern (2022.07 ~ 2023.01)</sup></sub>  
 - 한국외국어대학교 컴퓨터공학부 <sub><sup>(2017.03 ~ 2024.02)</sup></sub> 
